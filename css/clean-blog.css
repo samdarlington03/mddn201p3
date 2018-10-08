@@ -47,6 +47,13 @@ blockquote {
   color: #868e96;
 }
 
+.twitterthing {
+  position: absolute;
+  top:650px;
+  left:500px;
+  z-index: 10;
+}
+
 .section-heading {
   font-size: 36px;
   font-weight: 700;
